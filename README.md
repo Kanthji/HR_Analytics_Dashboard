@@ -1,8 +1,7 @@
 # HR_Analytics_Dashboard
 
-__Scope of project__
+__Scope of project: -__
 What are the key factors of attrition of employees?
-
 * Imported data in __Power BI__.
 * Transformed data before loading the data for __data cleaning__ and __processing__.
 * Checked for null values, duplicates & spelling errors in data cleaning process.
