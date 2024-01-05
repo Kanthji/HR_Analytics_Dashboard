@@ -12,3 +12,5 @@ __Project Learning__
 * Improved employee experience.
 * Made workforce more productive.
 * Gained employee trust.
+
+![HR_Analytics_Dashboard](https://github.com/Kanthji/HR_Analytics_Dashboard/assets/116734498/c9806063-a6dd-479f-bfcb-8664a46690bc)
